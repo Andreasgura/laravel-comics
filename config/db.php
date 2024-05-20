@@ -2,7 +2,7 @@
 return [
 'pages'  => [
     [
-        "imgpath" => " /img/buy-comics-digital-comics.png" ,
+        "imgpath" => " Vite::asset(resources/img/buy-comics-digital-comics.png)" ,
         "name" => " digital comics" 
     ],
     [
